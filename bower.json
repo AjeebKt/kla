@@ -1,0 +1,28 @@
+{
+  "name": "kla",
+  "description": "kla klaa",
+  "main": "index.js",
+  "authors": [
+    "Ajeeb"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "kla",
+    "kli",
+    "kli"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-material-design": "^0.5.9"
+  }
+}
